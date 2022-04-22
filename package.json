@@ -1,0 +1,18 @@
+{
+  "name": "pomodoria",
+  "version": "1.0.0",
+  "description": "Pomodora time management helper",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "pomodora"
+  ],
+  "author": "KiaBoluki",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^18.1.0"
+  }
+}
